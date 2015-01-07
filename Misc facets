@@ -1,0 +1,4 @@
+<xp:this.facets>
+  <xp:panel xp:key="header"></xp:panel>
+  <xp:panel xp:key="footer"></xp:panel>
+</xp:this.facets>
